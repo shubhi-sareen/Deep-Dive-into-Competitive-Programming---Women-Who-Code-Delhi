@@ -1,0 +1,26 @@
+﻿Dynamic Programming
+
+http://www.spoj.com/problems/ADFRUITS/
+http://www.spoj.com/problems/MBEEWALK/
+http://www.spoj.com/problems/WEIGHT/
+http://www.spoj.com/problems/MCOINS/ 
+http://www.spoj.com/problems/CHOCOLA/
+http://www.spoj.com/problems/COINS/
+http://www.spoj.com/problems/SUMITR/
+http://www.spoj.com/problems/MARTIAN/ 
+http://www.spoj.com/problems/ACPC10D/ 
+http://www.spoj.com/problems/NOCHANGE/ 
+http://www.spoj.com/problems/MBLAST/ 
+http://www.spoj.com/problems/EDIST/ 
+http://www.spoj.com/problems/KNAPSACK/ 
+http://www.spoj.com/problems/BRIDGE/ 
+http://www.spoj.com/problems/RENT/
+http://www.spoj.com/problems/AMR11A/ 
+http://www.spoj.com/problems/MIXTURES/ 
+http://www.spoj.com/problems/TRT/  http://codeforces.com/contest/429/problem/B
+http://www.spoj.com/problems/TWENDS/ 
+http://www.spoj.com/problems/DCEPC501/ 
+http://www.spoj.com/problems/DSUBSEQ/ 
+http://www.spoj.pl/problems/PAIRSUM/  
+http://www.spoj.com/problems/SAMER08F/ 
+
